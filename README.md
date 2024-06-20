@@ -9,9 +9,6 @@
 https://drive.google.com/file/d/1mfIbPLbeozghsBkMjiXNdwKCcfWTOO3u/view?usp=sharing
 <br>(Global Apk ~ 23 mb - Supports all devices)
 
-<b>Check Youtube Course 👇<b>
-https://youtube.com/playlist?list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq
-
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
 <kbd>
 <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/8.png" width=30% height=30%/>
